@@ -142,3 +142,52 @@ ___
 * [Fundamentos de Domain-Driven Design ( DDD )](https://www.udemy.com/course/fundamentos-de-domain-driven-design/)
 * [Aprendendo Domain Driven Design (DDD) do zero](https://www.udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
 * [Domain Driven Design: Fundamentals](https://www.udemy.com/course/domain-driven-design-fundamentals/)
+
+## - Articles
+
+####  General
+* [Java Guides](https://www.javaguides.net/2018/08/java-guides.html)
+* [Tips and Practices](https://www.toptal.com/java/tips-and-practices)
+* [Top 25 Useful classes](https://www.javaguides.net/2019/07/top-25-useful-java-classes.html)
+* [Static Keyword in Java With Examples](https://www.javaguides.net/2018/12/static-keyword-in-java-with-examples.html)
+* [30 Best Practices Java Programming](https://www.linkedin.com/pulse/30-best-practices-java-programming-robert-mitchell)
+
+####  Guides
+* [27 useful string utility methods](https://www.javaguides.net/2018/08/27-useful-string-utility-methods.html)
+* [Guide to String best practices in Java](https://www.javaguides.net/2018/06/guide-to-string-best-practices-in-java.html)
+* [Guide to algorithms used in Java Library](https://www.javaguides.net/2018/06/guide-to-algorithms-used-in-java-library.html)
+* [Java URLEncoder and URLDecoder Class](https://www.javaguides.net/2019/05/java-urlencoder-and-urldecoder-class.html)
+* [Top Java File Utility Methods](https://www.javaguides.net/2018/07/top-java-file-utility-methods.html)
+* [Top Reflection Utility Methods](https://www.javaguides.net/2018/07/top-reflection-utility-methods.html)
+* [Java Reflection for Classes](https://www.javaguides.net/2018/07/java-reflection-for-classes.html)
+* [Java collection framework best practices](https://www.javaguides.net/2018/06/java-collection-framework-best-practices.html)
+* [18 Useful collections Utility Methods](https://www.javaguides.net/2018/08/18-useful-collections-utility-methods.html)
+* [Java Generics best practices](https://www.javaguides.net/2018/09/java-generics-best-practices.html)
+
+####  Hibernate
+* [Hibernate Init Java](https://www.javaguides.net/2018/11/hibernate-hello-world-tutorial.html)
+* [Hibernate-persist-entity-example](https://www.javaguides.net/2018/11/hibernate-persist-entity-example.html)
+* [Hibernate-save-an-entity-example](https://www.javaguides.net/2018/11/hibernate-save-an-entity-example.html)
+* [Hibernate-saveorupdate-method-example](https://www.javaguides.net/2018/11/hibernate-saveorupdate-method-example.html)
+* [Hibernate-merge-example](https://www.javaguides.net/2018/11/hibernate-merge-example.html)
+* [Hibernate-5-xml-configuration-example](https://www.javaguides.net/2018/11/hibernate-5-xml-configuration-example.html)
+* [Hibernate-jpa-mappedsuperclass-inheritance-example](https://www.javaguides.net/2018/11/hibernate-jpa-mappedsuperclass-inheritance-example.html)
+
+####  Utility Class
+
+##### General
+* [top-10-java-utility-classes](https://www.programcreek.com/2015/12/top-10-java-utility-classes/)
+
+##### Classes
+* [Java-string-utility-class.html](https://www.javaguides.net/2018/08/java-string-utility-class.html)
+* [Java-file-utility-class.html](https://www.javaguides.net/2018/07/java-file-utility-class.html)
+* [Java-8-date-utility-class.html](https://www.javaguides.net/2018/07/java-8-date-utility-class.html)
+* [Java-collectionutils-class.html](https://www.javaguides.net/2018/08/java-collectionutils-class.html)
+* [Java-propertiesfilereader-utility-class.html](https://www.javaguides.net/2019/09/java-propertiesfilereader-utility-class.html)
+* [Java-zip-utility-class](https://www.javaguides.net/2018/07/java-zip-utility-class.html)
+* [Executors-utility-class-in-java](https://www.javaguides.net/2018/09/executors-utility-class-in-java.html)
+* [Java-reflection-utility-class](https://www.javaguides.net/2018/07/java-reflection-utility-class.html)
+
+
+##### Addendum
+* [OOP-alternative-to-utility-classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
